@@ -1,7 +1,6 @@
 #
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--O3hycoaa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif)]
-<h1 align="center">Hi 👋
-  I'm Debabrata mohanty</h1>
+<h1 align="center">Hi 👋 I'm Debabrata mohanty</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -27,5 +26,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debabratamohanty07&show_icons=true&locale=en" alt="debabratamohanty07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debabratamohanty07&" alt="debabratamohanty07" /></p>
+
 
