@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Excel, SQL, Power BI**
+- 💬 Ask me about **Excel, SQL , Power BI**
 
 - 📫 How to reach me **mohantydev1998@gmail.com**
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkdin.com/in/debabrata-mohanty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkdin.com/in/debabrata-mohanty" height="30" width="40" /></a>
+<a href= " https://linkedin.com/in/https://www.linkdin.com/in/debabrata-mohanty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkdin.com/in/debabrata-mohanty" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
